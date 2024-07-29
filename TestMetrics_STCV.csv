@@ -1,0 +1,49 @@
+Model,Metric,Class,Value
+ranger,F1-score,c1,0.736196319
+ranger,F1-score,c2,0.136986301
+ranger,F1-score,c3,0.2
+ranger,Balanced accuracy,c1,0.546031388
+ranger,Balanced accuracy,c2,0.530354181
+ranger,Balanced accuracy,c3,0.537369792
+adaboost,F1-score,c1,0.72967033
+adaboost,F1-score,c2,0.192771084
+adaboost,F1-score,c3,0.370967742
+adaboost,Balanced accuracy,c1,0.582225727
+adaboost,Balanced accuracy,c2,0.541104004
+adaboost,Balanced accuracy,c3,0.602552083
+xgbTree,F1-score,c1,0.734530938
+xgbTree,F1-score,c2,0.086956522
+xgbTree,F1-score,c3,0.152173913
+xgbTree,Balanced accuracy,c1,0.527408576
+xgbTree,Balanced accuracy,c2,0.518212509
+xgbTree,Balanced accuracy,c3,0.527135417
+knn,F1-score,c1,0.676122931
+knn,F1-score,c2,0.156862745
+knn,F1-score,c3,0.350364964
+knn,Balanced accuracy,c1,0.55524893
+knn,Balanced accuracy,c2,0.505656243
+knn,Balanced accuracy,c3,0.58578125
+svm,F1-score,c1,0.730688935
+svm,F1-score,c2,0.085714286
+svm,F1-score,c3,0.247787611
+svm,Balanced accuracy,c1,0.551193963
+svm,Balanced accuracy,c2,0.516346837
+svm,Balanced accuracy,c3,0.546458333
+nnet,F1-score,c1,0.687089716
+nnet,F1-score,c2,NA
+nnet,F1-score,c3,0.295774648
+nnet,Balanced accuracy,c1,0.519054592
+nnet,Balanced accuracy,c2,0.5
+nnet,Balanced accuracy,c3,0.55015625
+gbm,F1-score,c1,0.708423326
+gbm,F1-score,c2,0.170731707
+gbm,F1-score,c3,0.290598291
+gbm,Balanced accuracy,c1,0.540812495
+gbm,Balanced accuracy,c2,0.533167496
+gbm,Balanced accuracy,c3,0.564505208
+naivesbayes,F1-score,c1,0.595419847
+naivesbayes,F1-score,c2,0.15
+naivesbayes,F1-score,c3,0.306878307
+naivesbayes,Balanced accuracy,c1,0.502384171
+naivesbayes,Balanced accuracy,c2,0.52709666
+naivesbayes,Balanced accuracy,c3,0.527317708
